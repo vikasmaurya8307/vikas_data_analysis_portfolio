@@ -1,0 +1,1 @@
+Open sales_data.xlsx in Power BI and create dashboard with charts and KPIs.
